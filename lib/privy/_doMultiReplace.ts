@@ -2,7 +2,7 @@ import { errorIfNotPopulatedArray } from 'error-if-not-populated-array';
 
 
 export function _doMultiReplace(replaceFunction, oldValues, newValues, array) {
-	
+
 	_checkArrays([oldValues, newValues, array], errorIfNotPopulatedArray);
 	_errorIfNewValuesIsTooShort(newValues, oldValues);
 

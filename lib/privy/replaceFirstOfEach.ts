@@ -1,4 +1,4 @@
-import { _doMultiReplace } from './private_functions';
+import { _doMultiReplace } from './_doMultiReplace';
 import { replaceFirstOf } from '@writetome51/array-replace-first-of-all-of';
 
 

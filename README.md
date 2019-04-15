@@ -8,11 +8,8 @@ This is repeated for each value in `values`.
 All instances of `values[i]` found in `array` get replaced with `newValues[i]`.   
 This is repeated for each value in `values`.
 
-NOTICE :  For all the functions, any parameter called `value` cannot be an  
-object.  It can be an array.  
-Any parameter called `values` cannot contain an object.  It can contain arrays.  
-You can, however, pass an object as a `newValue`, or have an object inside of  
-`newValues`.
+NOTICE :  For both functions, any parameter called `values` cannot contain   
+an object.  &nbsp;`values` can contain arrays, as long as those arrays do not contain objects.
 
 ## Installation
 `npm i  @writetome51/array-replace-first-of-all-of-each`
