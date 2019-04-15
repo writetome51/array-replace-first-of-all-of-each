@@ -1,0 +1,37 @@
+{
+  "name": "@writetome51/array-replace-first-of-all-of-each",
+  "version": "1.0.0",
+  "description": "Functions that replace particular values found in array with new values",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/writetome51/array-replace-first-of-all-of-each.git"
+  },
+  "bugs": {
+    "url": "https://github.com/writetome51/array-replace-first-of-all-of-each/issues"
+  },
+  "homepage": "https://github.com/writetome51/array-replace-first-of-all-of-each#readme",
+  "keywords": [
+    "array",
+    "manipulation",
+    "find",
+    "search",
+    "replace",
+    "value",
+    "values",
+    "all",
+    "items",
+   "elements"
+  ],
+  "author": "Steve Thompson",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "error-if-not-populated-array": "~1.0.2",
+    "@writetome51/array-replace-first-of-all-of": "~2.0.0"
+  }
+}
