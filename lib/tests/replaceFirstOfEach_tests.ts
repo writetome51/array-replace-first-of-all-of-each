@@ -1,4 +1,4 @@
-import { replaceFirstOf, replaceFirstOfEach } from '../privy/replaceFirstOf_replaceFirstOfEach';
+import { replaceFirstOfEach } from '../privy/replaceFirstOfEach';
 import { arraysMatch } from '@writetome51/arrays-match';
 
 

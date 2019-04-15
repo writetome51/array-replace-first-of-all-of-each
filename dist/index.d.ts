@@ -1,2 +1,4 @@
-export { replaceFirstOfEach } from './privy/replaceFirstOfEach';
-export { replaceAllOfEach } from './privy/replaceAllOfEach';
+export declare function replaceAllOfEach(values: any[], newValues: any[], array: any[]): void;
+
+
+export declare function replaceFirstOfEach(values: any[], newValues: any[], array: any[]): void;
